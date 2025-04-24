@@ -1,5 +1,5 @@
 <h1 align="center">Oi 👋, Eu sou Bruno Henrique Gabriel.</h1>
-<h3 align="center">Eu sou apaixonado por Programação</h3>
+<h3 align="center">Full Stack Dev Junior</h3>
 
 - 🌱 Atualmente estou aprendendo **CSS, JavaScript ,Python, Bootstrap e React**
 
