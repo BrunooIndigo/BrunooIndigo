@@ -1,7 +1,7 @@
 <h1 align="center">Oi 👋, Eu sou Bruno Henrique Gabriel.</h1>
 <h3 align="center">Front End Dev Junior</h3>
 
-- 🌱 Atualmente estou aprendendo **CSS, JavaScript ,Python, Bootstrap e React**
+- 🌱 Atualmente estou aprendendo **CSS, JavaScript ,Python, e React**
 
 - 👯 Estou Cursando Framework e Criação de sites [FIC Fundação Bradesco](https://fundacao.bradesco/fic/)
 
